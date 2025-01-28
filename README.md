@@ -1,3 +1,6 @@
+pip install -r requirements.txt в терминале
+
+
 В wallets.cxv в формате
 from_private_key,to_private_key
 
